@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SplashApplications xmlns="http://chipnet.qualcomm.com/aggregator/splashApplications/v1.0">
+     <Bundle>
+          <BundleID>285</BundleID>
+          <BundleName>QPST Bundle</BundleName>
+          <BundleUrl>https://createpoint.qti.qualcomm.com/tools/link/suite/285/18441</BundleUrl>
+          <ReleaseID>18441</ReleaseID>
+          <CreatePointUrl>https://createpoint.qti.qualcomm.com/tools/link/suite/285/18441</CreatePointUrl>
+          <UpdateCheckUrl>https://createpoint.qti.qualcomm.com/service/public/suite/latest?suiteId=285&amp;releaseId=18441</UpdateCheckUrl>
+          <ToolAccessUrl>https://createpoint.qti.qualcomm.com/service/public/auth/tool/access/285</ToolAccessUrl>
+     </Bundle>
+     <Applications>
+          <Application>
+               <Name>Qualcomm Product Support Tool</Name>
+               <Version>2.7.474.0</Version>
+               <Copyright endYear="2018" startYear="1999"/>
+               <SplashImage>./QPSTServer.png</SplashImage>
+          </Application>
+     </Applications>
+</SplashApplications>
